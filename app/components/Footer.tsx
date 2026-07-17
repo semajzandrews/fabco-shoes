@@ -63,7 +63,7 @@ export default function Footer() {
           </span>
           <a href="https://bysemaj.com" target="_blank" rel="noopener"
             style={{ fontSize: 12.5, color: "rgba(244,246,250,.55)", display: "inline-flex", alignItems: "center", gap: 7 }}>
-            Built by
+            built
             <span style={{ color: "#fff", fontWeight: 700, borderBottom: "1px solid var(--blue)", paddingBottom: 1 }}>bysemaj.com</span>
           </a>
         </div>
